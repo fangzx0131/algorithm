@@ -41,7 +41,7 @@ import org.fangzixuan.leetcode.domain.TreeNode;
 import java.util.Objects;
 
 public class BinaryTreeMaximumPathSum{
-    public static void mail(String[] args) {
+    public static void main(String[] args) {
         Solution solution = new BinaryTreeMaximumPathSum().new Solution();
     }
     //leetcode submit region begin(Prohibit modification and deletion)

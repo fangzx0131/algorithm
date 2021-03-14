@@ -27,7 +27,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ConstructBinaryTreeFromPreorderAndInorderTraversal{
-    public static void mail(String[] args) {
+    public static void main(String[] args) {
         Solution solution = new ConstructBinaryTreeFromPreorderAndInorderTraversal().new Solution();
     }
     //leetcode submit region begin(Prohibit modification and deletion)
